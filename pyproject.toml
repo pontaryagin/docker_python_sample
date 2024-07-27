@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "streamlit-sample"
+version = "0.1.0"
+description = ""
+authors = ["pontaryagin <ponta1496@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+streamlit = "^1.36.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
